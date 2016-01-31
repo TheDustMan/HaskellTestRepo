@@ -3,15 +3,14 @@
 
 name:                HaskellTestRepo
 version:             0.1.0.0
-synopsis:            Just a test man
+synopsis:            Just a test bro
 -- description:         
-homepage:            www.dustweb.org
--- license:             
+license:             PublicDomain
 license-file:        LICENSE
 author:              DustMan
-maintainer:          dust.aguilar@gmail.com
+-- maintainer:          
 -- copyright:           
-category:            Testing
+-- category:            
 build-type:          Simple
 extra-source-files:  README.md
 cabal-version:       >=1.10
